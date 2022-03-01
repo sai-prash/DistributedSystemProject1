@@ -1,1 +1,1 @@
-# HotelReservation
+# Consensus Algorithm 
